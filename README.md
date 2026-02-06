@@ -13,30 +13,6 @@
 
 ---
 
-## 📊 GitHub Dashboard
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foregato&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foregato&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foregato&theme=tokyonight&hide_border=true)
-
-</div>
-
-### 🎯 Estatísticas Rápidas
-
-<div align="center">
-
-| 📦 Repositórios Públicos | 🌟 Estrelas Totais | 💻 Commits (último ano) 
-|:------------------------:|:------------------:|:-----------------------:|
-| 6+ | 1+ | ~65 |
-
-</div>
-
----
-
 ## 🚀 Sobre Mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas** com formação Técnica em TI e certificação em Inteligência Artificial (Google Gemini). Atuo como Jovem Aprendiz em Suporte Técnico, com experiência em processos operacionais e administrativos.
@@ -81,16 +57,6 @@ Sistema completo de cadastro de pacientes com geração de estatísticas e relat
 ### 🤖 [BotSimples](https://github.com/foregato/BotSimples)
 **Tecnologias:** JavaScript  
 Bot automatizado para respostas no WhatsApp, otimizando atendimento.
-
----
-
-## 📈 Contribuições
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=foregato&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ---
 
