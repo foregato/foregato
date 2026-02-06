@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Arthur Foregato
 
-### Jovem Aprendiz em Suporte Técnico | Estudante de ADS | Apaixonado por Código Limpo
+### | Estudante de ADS | Jovem Aprendiz no Administrativo
 
 📍 Campinas, SP • 🎓 Análise e Desenvolvimento de Sistemas
 
