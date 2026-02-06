@@ -29,9 +29,9 @@
 
 <div align="center">
 
-| 📦 Repositórios Públicos | 🌟 Estrelas Totais | 💻 Commits (último ano) | 🔥 Maior Sequência |
-|:------------------------:|:------------------:|:-----------------------:|:------------------:|
-| 6+ | 1+ | ~65 | - |
+| 📦 Repositórios Públicos | 🌟 Estrelas Totais | 💻 Commits (último ano) 
+|:------------------------:|:------------------:|:-----------------------:|
+| 6+ | 1+ | ~65 |
 
 </div>
 
@@ -82,14 +82,6 @@ Sistema completo de cadastro de pacientes com geração de estatísticas e relat
 **Tecnologias:** JavaScript  
 Bot automatizado para respostas no WhatsApp, otimizando atendimento.
 
-### 📊 [trabalhando_com_vetor](https://github.com/foregato/trabalhando_com_vetor)
-**Tecnologias:** C  
-Sistema de gerenciamento de vendas utilizando estruturas de dados (vetores).
-
-### 💰 [Calcular_Desconto_salarial](https://github.com/foregato/Calcular_Desconto_salarial)
-**Tecnologias:** C  
-Programa modularizado para cálculo de descontos e benefícios salariais.
-
 ---
 
 ## 📈 Contribuições
@@ -132,7 +124,6 @@ Estou sempre aberto a novas oportunidades, colaborações e feedback! Sinta-se �
 
 **"Transformando código em soluções"** 💻✨
 
-</div>## Hi there 👋
 
 <!--
 **foregato/foregato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
